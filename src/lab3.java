@@ -8,7 +8,13 @@ public class lab3 {
 	}
 
 	
-
+	private static int function(int n){
+		if (n==1 || n==2){
+		
+		}
+	}		
+		
+		
 	
 	
 	
